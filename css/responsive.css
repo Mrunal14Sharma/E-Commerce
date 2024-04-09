@@ -1,0 +1,23 @@
+@media(max-width:767px){
+    .sign-up {
+        margin-top: 78px;
+        display: flex;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        margin-right: 0%;
+        margin-left: 0%;
+        margin-top: 69px;
+        background: white;
+        padding: 2rem;
+        box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+        border-radius: 8px;
+    }
+    .quick-link {
+        margin-left: -2%;
+        margin-top: 22px;
+    }
+    .social {
+        margin-left: 55%;
+        margin-top: -153px;
+    }
+}

@@ -1,0 +1,91 @@
+.nav-item a{
+    color:white;
+}
+.navbar-brand img {
+    width: 119%;
+    height: 46px;
+}
+.first {
+    padding-bottom: 31px;
+    background: linear-gradient(#2a5298, #8e2de2, #4a00e0);
+    background-size: 100% 100%;
+}
+.heading h1{
+    color:white;
+}
+.form-group {
+    margin-bottom: 18px;
+}
+.form-group a{
+    color:white;
+}
+.label{
+    display: none;
+}
+.login {
+    margin-top: 78px;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: 35%;
+    margin-left: 34%;
+    margin-top: 32px;
+    background: white;
+    padding: 2rem;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+}
+.form {
+    margin-top: 22px;
+    font-size: 12px;
+}
+.login h5 {
+    margin-left: 40%;
+}
+.login p {
+    margin-left: 35px;
+    margin-top: 13px;
+}
+.btn {
+    margin-left: 22%;
+    width: 129px;
+    color: white;
+    background-color: black;
+}
+.forget-password a{
+    margin-left:75px;
+}
+/* .image img{
+    width:67%;
+} */
+.footer{
+    background-color: black;
+    padding:22px;
+}
+.quick-link{
+    margin-left:50%;
+    margin-top:22px;
+}
+.quick-link h4{
+    color:white
+}
+.list-unstyled{
+    color:white;
+}
+.list-unstyled i{
+    color:white;
+}
+.list-unstyled a{
+    color:white;
+}
+.social{
+    margin-left:20%;
+    margin-top:22px;
+}
+.social h4{
+    color:white;
+}
+.social i{
+    margin-left:13px;
+    color:white;
+}
